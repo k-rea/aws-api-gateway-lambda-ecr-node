@@ -1,0 +1,15 @@
+{
+  "name": "aws-api-gateway-lambda-ecr-node",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "get-stream": "^6.0.1",
+    "pdfkit": "^0.13.0"
+  }
+}
